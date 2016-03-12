@@ -1,0 +1,1 @@
+Provides a backend and front end for logging and displaying ACRA reports (Android Crash Reports). Automates retracing the proguard mappings and is multi user capable (each user gets own apps).
